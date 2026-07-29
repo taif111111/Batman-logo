@@ -16,5 +16,4 @@ This repository contains a 3D-printable model of a Batman keychain, designed usi
 
 ## 📁 Repository Contents & Links
 
-* 📄 `Keychain.stl` - The final 3D model file ready for slicing and 3D printing.
 * 🔗 Onshape Public Link: https://cad.onshape.com/documents/97850aa43cb4de6291f88a24/w/8c13333c69ac730f95a12946/e/7d0b6b0f768b97b81f190f7e?renderMode=0&uiState=6a6a7ccebe776e17aefb652a
